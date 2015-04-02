@@ -12,7 +12,7 @@ These functions compute bivariate central normal probabilities.
 ## Installation
 
 ```julia
-Pkg.clone("https://github.com/andferrari/BivarNormalProb.jl")
+Pkg.clone("https://github.com/andferrari/BivarNormalProb.jl.git")
 ```
 ## Usage
 
